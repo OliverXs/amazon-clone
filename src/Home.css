@@ -1,0 +1,26 @@
+.home{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#Home_banner{
+    margin:auto;
+    max-width: 1500px;
+    width: 100vw;
+    height: 600px;
+}
+#products{
+    display: flex;
+    flex-direction: column;
+    max-width: 1500px;
+}
+#Products_banner{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+#Products_init{
+
+}
